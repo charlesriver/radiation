@@ -1,7 +1,7 @@
 # Radiation
-Cancer radiation ML project
-Christine Zhang Senior Thesis
+Cancer radiation ML project <br>
+Christine Zhang Senior Thesis <br><br>
 
-Advisors: 
-David Craft, HMS
+<b> Advisors: </b><br>
+David Craft, HMS <br>
 Yaron Singer, Harvard CS
