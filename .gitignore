@@ -2,4 +2,6 @@ cndata472.csv
 cndata472_fixed.csv
 mutation.csv
 datamaster*
-
+*.p
+master_auc*
+master_no_auc*
