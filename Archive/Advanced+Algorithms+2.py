@@ -94,9 +94,9 @@ svr_lin = SVR(kernel = "linear")
 rf = RandomForestRegressor()
 
 
-param_lst = {"rf": {"n_estimators": range(6, 11)}, 
-             "svr_rbf": {"C": [1, 10, 100, 1000], "gamma": [10**(-6), 10**(-5), 10**(-4)]}, 
-             "svr_lin": {"C": [1, 10, 100, 1000], "gamma": [10**(-6), 10**(-5), 10**(-4)]}}
+param_lst = {"rf": {"n_estimators": range(14, 20)}, 
+             "svr_rbf": {"C": [1, 10, 100, 1000], "gamma": [10**(-7), 10**(-6), 10**(-5), 10**(-4)]}, 
+             "svr_lin": {"C": [0.01, 0.1, 1, 10], "gamma": [10**(-9), 10**(-8), 10**(-7), 10**(-6)]}}
 algo_lst = ["rf", "svr_rbf", "svr_lin"]
 
 
