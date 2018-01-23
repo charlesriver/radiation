@@ -11,5 +11,9 @@ all_sorted*
 datasets
 gene_exp*
 datasets_498
+<<<<<<< HEAD
 API/API_datasets
 Archive/old_datasets
+=======
+Archive
+>>>>>>> 02416adfed48723c9c3725b4cf96ad67abfd5ca8
